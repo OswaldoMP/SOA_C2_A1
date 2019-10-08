@@ -1,0 +1,8 @@
+MYSQL TABLES
+TABLES
+
+
+TABLE : [('adonis_schema',), ('examples',), ('inventories',), ('products',), ('sales',), ('tokens',), ('transactions',), ('users',)]
+TABLE : [('adonis_schema',), ('examples',), ('inventories',), ('products',), ('sales',), ('tokens',), ('transactions',), ('users',)]
+TABLE : [('adonis_schema',), ('examples',), ('inventories',), ('products',), ('sales',), ('tokens',), ('transactions',), ('users',)]
+TABLE : [('adonis_schema',), ('examples',), ('inventories',), ('products',), ('sales',), ('tokens',), ('transactions',), ('users',)]
